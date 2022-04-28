@@ -26,7 +26,7 @@ class MyApp extends StatelessWidget {
         LocalJsonLocalization.delegate,
       ],
       theme: ThemeData(
-        primarySwatch: Colors.blue,
+        primarySwatch: Colors.red,
       ),
       home: const MyHomePage(),
     );
